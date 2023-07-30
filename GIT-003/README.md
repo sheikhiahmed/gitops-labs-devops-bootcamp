@@ -188,21 +188,6 @@ git merge upstream/main
 
 ---
 
-## Folder Structure
-
-```
-GIT-003-GitHub-Collaboration/
-├── README.md
-├── .gitignore
-├── ssh-test.png
-├── pr-flow.png
-├── fork-clone.png
-├── notes/
-│   └── open_source_pr_checklist.md
-```
-
----
-
 ## Validation Checklist
 
 | Task                                | Status |
@@ -215,6 +200,20 @@ GIT-003-GitHub-Collaboration/
 | Screenshots/notes documented        | ✅     |
 
 ---
+
+## Visuals
+
+### SSH Authentication Test
+
+![SSH Test](screenshots/ssh-test.png)
+
+### Pull Request Flow
+
+![PR Flow](screenshots/pr-flow.png)
+
+### Open Source Contribution
+
+![Open Source Contribution](screenshots/open-source-contribution.png)
 
 ## FameTech Story
 
